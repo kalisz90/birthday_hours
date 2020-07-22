@@ -2,3 +2,4 @@ Aplikacja napisana w języku PHP z wykorzystaniem html/css, która wyszukuję dz
 
 
 https://www.pythonblog.pl/index.php/2020/07/22/php-aplikacja/
+
